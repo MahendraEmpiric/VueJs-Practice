@@ -1,0 +1,14 @@
+{
+  "name": "vuejs_leaning",
+  "version": "1.0.0",
+  "description": "Practicing the vueJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahendra devkar",
+  "license": "ISC",
+  "repository": {
+    "url": ""
+  }
+}
